@@ -5,6 +5,6 @@ class HelloWord
 {
     public function index()
     {
-        return 'hello,word 1.0.0';
+        return 'hello,word 1.0.2';
     }
 }

@@ -1,0 +1,20 @@
+{
+    "name": "xiaoxiaoxiaox/xixixi",
+    "description": "hello,word!",
+    "type": "library",
+    "keywords": ["hello","word"],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "authors": [
+        {
+            "name": "xixixi",
+            "email": "1605882811@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "xiaoxiaoxiao\\test\\": "src/"
+        }
+    }
+}

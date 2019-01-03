@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "xiaoxiaoxiao\\test\\": "src/"
+            "Xiaoxiaoxiaox\\Xixixi\\": "src/"
         }
     }
 }

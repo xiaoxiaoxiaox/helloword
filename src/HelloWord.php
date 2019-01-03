@@ -1,5 +1,5 @@
 <?php
-namespace xiaoxiaoxiaox\test;
+namespace Xiaoxiaoxiaox\Xixixi;
 
 class HelloWord
 {
